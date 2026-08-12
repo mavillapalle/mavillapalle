@@ -8,7 +8,7 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/M.Sc.-Electrical_Engineering-4c1d95?style=for-the-badge&labelColor=1a0b2e)
+![Degree](https://img.shields.io/badge/M.Sc.-Electronics_Engineering-4c1d95?style=for-the-badge&labelColor=1a0b2e)
 ![University](https://img.shields.io/badge/Hochschule_Bremen-City_University_of_Applied_Sciences-6d28d9?style=for-the-badge&labelColor=1a0b2e)
 ![Location](https://img.shields.io/badge/📍_Bremen-Germany-7c3aed?style=for-the-badge&labelColor=1a0b2e)
 
