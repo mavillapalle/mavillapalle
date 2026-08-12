@@ -30,7 +30,7 @@
 
 ## About
 
-I'm Nandini MAvillapalle an **M.Sc. candidate in Electrical Engineering** at Hochschule Bremen, focused on the layer where **Embedded software** — turning raw sensor signals into reliable, quantified insight on real-time hardware.
+I'm Nandini MAvillapalle an **M.Sc. candidate in Electronics Engineering** at Hochschule Bremen, focused on the layer where **Embedded software** — turning raw sensor signals into reliable, quantified insight on real-time hardware.
 
 My work centers on **digital signal processing, embedded firmware, and metrology**: extracting meaning from noisy data, characterizing systems with rigorous uncertainty analysis, and running DSP pipelines on constrained microcontrollers. I approach engineering with a **measurement-first mindset** — every result comes with a traceable method and an error bar, not just a number.
 
